@@ -1,0 +1,5 @@
+client Id
+955ddd9dfd5d29fb6576
+
+Client secret key
+185e3ffd20f4153371ae654e6989beb9ba714d51
